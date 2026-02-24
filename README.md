@@ -72,6 +72,6 @@ I enjoy developing **smooth, user-friendly, and production-ready mobile applicat
 
 ### 📫 Contact Me
 
-- Email: Mohdusama@gmail.com
+- Email: mohdusama5360@gmail.com
 
 ---
