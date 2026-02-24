@@ -17,6 +17,7 @@ I enjoy developing **smooth, user-friendly, and production-ready mobile applicat
 - Advanced Flutter Architecture
 - Performance Optimization
 - Flutter AI Integration
+- **Bloc State Management**
 
 ---
 
