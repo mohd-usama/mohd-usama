@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohd Usama</h1>
+<h3 align="center">A passionate Mobile App Developer from India</h3>
 
-<!--
-**mohd-usama/mohd-usama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Flutter Advanced Concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask me about
+- Flutter
+- Android
+- iOS
+- Firebase
+- REST APIs
+
+### 📫 How to reach me
+- Email: yourmail@gmail.com
+
+---
+
+### 🚀 Languages and Tools:
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,firebase,git,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
